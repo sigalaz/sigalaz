@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sebastian Galaz
 - 👀 I’m interested in the intersection of computer vision and robotics
-- 🌱 I’m currently learning 3d computer vision and some deeper knoledge of c++
+- 🌱 I’m currently working on projects involving 3d computer vision and visual inertial odometry algorithms for submarine robots
 - 📫 you can reach on sigalaz at miuandes dot cl
 
 <!---
