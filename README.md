@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sebastian Galaz
 - 👀 I’m interested in the intersection of computer vision and robotics
-- 🌱 I’m currently working on projects involving 3d computer vision and navigation control of agile quadrotors
+- 🌱 I’m currently working on projects involving 3D computer vision and navigation control of agile quadrotors
 - 📫 you can reach on sigalaz at miuandes dot cl
 
 <!---
