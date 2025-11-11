@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sebastian Galaz
 - 👀 I’m interested in the intersection of computer vision and robotics 
-- 🌱 On research I’m currently working on projects involving computer vision and Deep RL algorithms for navigation control of agile quadrotors and urban trees health monitoring systems
+- 🌱 On research I’m currently working on projects involving computer vision and Deep RL algorithms for navigation control of agile quadrotors and urban trees health monitoring systems based on images using computer vision and machine learning 
 - 📫 you can reach on sigalaz at miuandes dot cl
 
 <!---
